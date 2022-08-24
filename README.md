@@ -1,6 +1,6 @@
 # High Order Spline Spectral Element
 
-By: Amit Nayak & Dr. David Kopriva
+By: Amit Nayak & Dr. David A Kopriva
 
 
 This code in this repository outputs a mapped polynomial representation (chebyshev) for data evaluated using high order splines. 
